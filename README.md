@@ -14,15 +14,15 @@ python main.py
 This System is developed using **Python**. Following are the libraries used:
 1) **Tkinter**
 
-***Following are the characteristics of the system:***
-◉) This system allows you to add, update, and delete appointments.
-◉) The admin has to login first to use the functionalities or has to Register first.
-◉) The calendar widget is made to show all the appointments on a date with the patients name written.
-◉) Each day there can eb multiple appointments.
-◉) At a time there can be two appointments. It is shown on each daily view.
-◉) All the appointment and admin data is saved in the sqlite database.
+***Following are the characteristics of the system:***<br>
+◉) This system allows you to add, update, and delete appointments.<br>
+◉) The admin has to login first to use the functionalities or has to Register first.<br>
+◉) The calendar widget is made to show all the appointments on a date with the patients name written.<br>
+◉) Each day there can eb multiple appointments.<br>
+◉) At a time there can be two appointments. It is shown on each daily view.<br>
+◉) All the appointment and admin data is saved in the sqlite database.<br>
 
-The System is developed by [Muhammad Osama (Github)](https://github.com/Osama710) [(LinkedIn)](https://www.linkedin.com/in/osama-yousuf-6a1952177/)
+The System is developed by Muhammad Osama [(Github)](https://github.com/Osama710) [(LinkedIn)](https://www.linkedin.com/in/osama-yousuf-6a1952177/)
 
 ## Screenshots
 ![](./screenshots/main.png)
