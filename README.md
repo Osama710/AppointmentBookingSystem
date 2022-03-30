@@ -24,7 +24,7 @@ This System is developed using **Python**. Following are the libraries used:
 
 The System is developed by Muhammad Osama [(Github)](https://github.com/Osama710) [(LinkedIn)](https://www.linkedin.com/in/osama-yousuf-6a1952177/)
 
-## Screenshots
+## Screenshots<br>
 ![](./Screenshots/main.png)
 ![](./Screenshots/dailyview.png)
 ![](./Screenshots/login.png)
